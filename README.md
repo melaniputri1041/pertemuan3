@@ -11,3 +11,8 @@ fitur :
 
 ![bima sakti](istockphoto-1250677553-170667a.jpg)
 
+```c
+    void main(){
+        printf("Hello,world");
+    }
+```
