@@ -16,3 +16,16 @@ fitur :
         printf("Hello,world");
     }
 ```
+
+<!-- membuat tabel -->
+| Planet | Diameter | Jumlah Satelit |
+| ------- | -------- | -------------- |
+| Bumi | 12.756 | 1 |
+| Mars | 6.792 | 2 |
+| Jupiter | 142.984 | 67 |
+
+```sql
+DELIMITER $
+SELECT * FROM users WHERE email = 'romi@gmail.com';
+```
+# baris baru
